@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  ![KeyyPress Logo](https://via.placeholder.com/200x80?text=KeyyPress)
-  
   **Transforming Complex Challenges into Elegant Digital Solutions**
 
   [![Website](https://img.shields.io/badge/website-keyypress.com-orange?style=for-the-badge)](https://keyypress.com)
@@ -89,27 +87,6 @@ graph LR
 
 Our diverse team of designers, developers, and consultants brings years of experience across multiple industries. Led by technology veterans with a passion for innovation, we're committed to delivering excellence in every project.
 
-## 📋 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%">
-      <img src="https://via.placeholder.com/300x180?text=Project+1" width="100%"><br>
-      <b>Enterprise Resource Platform</b>
-      <p>Comprehensive ERP system that streamlined operations for a multinational corporation</p>
-    </td>
-    <td width="33%">
-      <img src="https://via.placeholder.com/300x180?text=Project+2" width="100%"><br>
-      <b>E-commerce Solution</b>
-      <p>Custom e-commerce platform with integrated payment systems and inventory management</p>
-    </td>
-    <td width="33%">
-      <img src="https://via.placeholder.com/300x180?text=Project+3" width="100%"><br>
-      <b>Mobile Banking App</b>
-      <p>Secure and user-friendly mobile banking application with advanced transaction features</p>
-    </td>
-  </tr>
-</table>
 
 ## 📞 Get In Touch
 
@@ -119,7 +96,7 @@ Let's discuss how we can help transform your business with custom software solut
   
   [![Email](https://img.shields.io/badge/Email-info@keyypress.com-orange?style=for-the-badge&logo=mail.ru)](mailto:info@keyypress.com)
   [![Phone](https://img.shields.io/badge/Phone-(+250)_785--816971-green?style=for-the-badge&logo=whatsapp)](tel:+250785816971)
-  [![Schedule](https://img.shields.io/badge/Schedule-A_Meeting-blue?style=for-the-badge&logo=googlemeet)](https://calendly.com/keyypress)
+  [![Schedule](https://img.shields.io/badge/Schedule-A_Meeting-blue?style=for-the-badge&logo=googlemeet)]([https://calendly.com/keyypress](https://calendly.com/keyypress-info/30-minute-free-project-consultation))
   
 </div>
 
