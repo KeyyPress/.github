@@ -79,11 +79,6 @@ graph LR
 - **Long-term Partnership**: We focus on building lasting relationships, not just completing projects
 - **Quality Assurance**: Rigorous testing and quality control at every stage
 
-## 👥 Our Team
-
-Our diverse team of designers, developers, and consultants brings years of experience across multiple industries. Led by technology veterans with a passion for innovation, we're committed to delivering excellence in every project.
-
-
 ## 📞 Get In Touch
 
 Let's discuss how we can help transform your business with custom software solutions.
