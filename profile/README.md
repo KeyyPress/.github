@@ -19,22 +19,18 @@ KeyyPress specializes in crafting bespoke software solutions that drive business
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/80?text=Web" width="80" height="80"><br>
       <b>Web Development</b>
       <p>Custom web applications and responsive websites built with modern frameworks</p>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/80?text=UX" width="80" height="80"><br>
       <b>UI/UX Design</b>
       <p>User-centric design that enhances engagement and conversion rates</p>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/80?text=Mobile" width="80" height="80"><br>
       <b>Mobile App Development</b>
       <p>Native and cross-platform mobile applications for iOS and Android</p>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/80?text=Consult" width="80" height="80"><br>
       <b>Consulting</b>
       <p>Strategic technology guidance and digital transformation consulting</p>
     </td>
